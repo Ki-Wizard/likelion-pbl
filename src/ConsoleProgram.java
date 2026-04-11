@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class consoleProgram {
+public class ConsoleProgram {
     private static final int MIN_LION_COUNT = 5;
 
     public static void main(String[] args) {
